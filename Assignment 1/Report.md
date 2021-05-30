@@ -15,6 +15,6 @@ Cubic = θ(n³)
 
 Polynomial = θ(n^k)
 
-https://github.com/lima21bd/IM-assignments/blob/main/Assignment%201/Graph.png
+![Graph](https://user-images.githubusercontent.com/38761302/120105031-26bc2480-c179-11eb-8b57-0a1c83832d13.png)
 
 
